@@ -1,0 +1,15 @@
+{
+  "name": "catch-the-lion",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/Ha-Young/catch-the-lion.git",
+  "author": "Ha0 <hayeong28@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.6"
+  }
+}
